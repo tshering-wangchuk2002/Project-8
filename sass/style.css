@@ -434,21 +434,21 @@ header .main_container nav .second .menus .btns_div button:nth-child(2):hover {
   display: inline-block;
 }
 .events_section .main_container .sub_container .items .box_one {
-  background-image: url("/image/event 1.png");
+  background-image: url("../image/event 1.png");
   background-size: cover;
   background-repeat: no-repeat;
   width: 542.93px;
   height: 290.86px;
 }
 .events_section .main_container .sub_container .items .box_two {
-  background-image: url("/image/event 2.png");
+  background-image: url("../image/event 2.png");
   background-size: cover;
   background-repeat: no-repeat;
   width: 542.93px;
   height: 290.86px;
 }
 .events_section .main_container .sub_container .items .box_three {
-  background-image: url("/image/event 3.png");
+  background-image: url("../image/event 3.png");
   background-size: cover;
   background-repeat: no-repeat;
   width: 542.93px;
